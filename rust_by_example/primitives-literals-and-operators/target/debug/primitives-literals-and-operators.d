@@ -1,0 +1,1 @@
+/Users/suyash/Swyzsh/rust-basics/rust_by_example/primitives-literals-and-operators/target/debug/primitives-literals-and-operators: /Users/suyash/Swyzsh/rust-basics/rust_by_example/primitives-literals-and-operators/src/main.rs
