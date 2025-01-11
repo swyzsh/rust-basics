@@ -1,0 +1,1 @@
+/Users/suyash/Swyzsh/rust-basics/rust_by_example/formatted-print-formatting/target/debug/formatted-print-formatting: /Users/suyash/Swyzsh/rust-basics/rust_by_example/formatted-print-formatting/src/main.rs
