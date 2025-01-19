@@ -7,6 +7,8 @@ struct Person {
   age: u8,
 }
 
+struct Number
+
 // A unit struct
 struct Unit;
 
