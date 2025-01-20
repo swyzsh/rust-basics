@@ -1,1 +1,0 @@
-/Users/suyash/Swyzsh/rust-basics/rust_by_example/primitives-arrays-and-slices/target/debug/primitives-arrays-and-slices: /Users/suyash/Swyzsh/rust-basics/rust_by_example/primitives-arrays-and-slices/src/main.rs
